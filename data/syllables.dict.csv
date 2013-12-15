@@ -1,0 +1,8 @@
+#
+# A list of 'irregular' words that the SyllableDictionary will not correctly estimate.
+#
+d, 0, s, 0, t, 0
+prayer, 1, prayers, 1, quaint, 1, queer, 1, vague, 1, while, 1, whiles, 1
+image, 2, io, 2, ion, 2, poem, 2, poems, 2, poet, 2, poets, 2
+alien, 3, aliens, 3, doable, 3, images, 3, meteor, 3, meteors, 3, zodiac, 3, zodiacs, 3
+associate, 4, associates, 4, diabetes, 4

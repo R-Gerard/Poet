@@ -1,0 +1,84 @@
+### Vim ###
+
+.*.sw[a-z]
+*.un~
+Session.vim
+.netrwhist
+
+### Emacs ###
+
+*~
+\#*\#
+/.emacs.desktop
+/.emacs.desktop.lock
+.elc
+auto-save-list
+tramp
+.\#*
+.org-id-locations
+*_archive
+
+### Eclipse ###
+
+.project
+.metadata
+bin/**
+tmp/**
+tmp/**/*
+*.tmp
+*.bak
+*.swp
+*~.nib
+local.properties
+.classpath
+.settings/
+.loadpath
+.externalToolBuilders/
+*.launch
+.cproject
+.buildpath
+
+### IntelliJ ###
+
+*.iml
+*.ipr
+*.iws
+.idea/
+
+### NetBeans ###
+
+nbproject/private/
+build/
+nbbuild/
+dist/
+nbdist/
+nbactions.xml
+nb-configuration.xml
+
+### Windows ###
+
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+### Linux ###
+
+.*
+!.gitignore
+!.gitattributes
+*~
+
+### OSX ###
+
+.DS_Store
+.AppleDouble
+.LSOverride
+Icon
+._*
+.Spotlight-V100
+.Trashes
+
+### Vagrant ###
+
+.vagrant/

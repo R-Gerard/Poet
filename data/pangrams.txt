@@ -1,0 +1,9 @@
+#
+# A list of pangrams (sentences using every letter of the alphabet at least once).
+#
+The quick brown fox jumps over a lazy dog.
+Glib jocks quiz nymph to vex dwarf.
+Quick blowing zephyrs vex daft Jim.
+Quick wafting zephyrs vex bold Jim.
+Amazingly few discotheques provide jukeboxes.
+Battle of Thermopylae: Quick javelin grazed wry Xerxes.
