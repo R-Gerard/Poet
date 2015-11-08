@@ -6,6 +6,8 @@ echo --------------------------------------------------
 echo BEGIN BOOTSTRAP.SH
 echo --------------------------------------------------
 
+echo "nameserver 192.168.1.1" > /etc/resolv.conf
+
 cd /vagrant
 if [ $use_rackup ]; then
   ./install.sh --rackup
